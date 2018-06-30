@@ -1,6 +1,0 @@
-Libraries listed below are used in this project:
-
-- Numpy (https://www.scipy.org/scipylib/download.html)
-- Pandas (https://pandas.pydata.org/pandas-docs/stable/install.html)
-- Sci-kit Learn (for Supervised Learning, http://scikit-learn.org/stable/install.html)
-- TA-Lib (for technical analysis, https://github.com/mrjbq7/ta-lib)
